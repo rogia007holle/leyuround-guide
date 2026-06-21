@@ -1,2 +1,14 @@
 # leyuround-guide
-HTML page archive and documentation
+
+GitHub Pages 文件记录
+
+这里收集多个独立页面，方便在同一个仓库中管理。
+
+## 文件组成
+
+- `.html` 文件为独立页面
+- `README.md` 为仓库基础说明
+
+## 提交说明
+
+页面文件由程序提交，提交历史可作为变更记录参考。
